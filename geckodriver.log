@@ -1,0 +1,4 @@
+1541771913162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Evoliris\\AppData\\Local\\Temp\\rust_mozprofile.xVU7BtjFn7IU"
+1541771980087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Evoliris\\AppData\\Local\\Temp\\rust_mozprofile.hZcsse4t5QQs"
+1541771982957	Marionette	INFO	Listening on port 55699
+1541771983309	Marionette	WARN	TLS certificate errors will be ignored for this session
